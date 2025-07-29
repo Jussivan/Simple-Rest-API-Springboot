@@ -1,4 +1,4 @@
-# 📝 BoardDeTarefas_JAVA
+# 📝 board-api-springboot
 
 Uma API REST simples para gerenciamento de cartões de tarefas, construída com **Spring Boot**, **JPA** e **H2**.
 
