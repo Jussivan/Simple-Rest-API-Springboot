@@ -8,8 +8,8 @@ Uma API REST simples para gerenciamento de cartões de tarefas, construída com 
 
 1. **Clone o repositório**
    ```sh
-   git clone https://github.com/seu-usuario/BoardDeTarefas_JAVA.git
-   cd BoardDeTarefas_JAVA/board
+   git clone https://github.com/Jussivan/board-api-springboot.git
+   cd board-api-springboot/board
    ```
 
 2. **Execute o projeto**
